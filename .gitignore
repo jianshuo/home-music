@@ -1,0 +1,8 @@
+# 私密 / 运行时
+.token
+config.sh
+state
+.resolve
+__pycache__/
+# 生成的快捷指令里带接口密钥
+shortcuts/*.shortcut
